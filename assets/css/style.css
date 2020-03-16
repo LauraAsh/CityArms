@@ -1,0 +1,38 @@
+
+/*------General styles */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+/*------End General styles */
+
+
+
+/*-----Header */
+
+#nav {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+nav li {
+    display: inline;
+    padding: 3.5%;
+}
+
+.container {
+    width: 80%;
+}
+
+/*-----End Header */
+
+
+
+
+#hero-image {
+    height: 90vh;
+    background-color: black;
+}
