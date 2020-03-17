@@ -6,6 +6,7 @@ Welcome to my project and thank you for taking a look!
 
 * UX 
     * Overall Project Goals
+    * User Goals
     * Design Decisions
         * Fonts 
         * Icons 
@@ -13,6 +14,7 @@ Welcome to my project and thank you for taking a look!
         * Styling 
         * Images 
         * Backgrounds 
+    
 
 ## UX 
 ### Project Goals 
@@ -29,4 +31,20 @@ navigable manner. With all of this in mind, it should encourage users to go and 
 * Location map which makes it easy for users to find
 * Use the website across all screen sizes, from desktop to mobile. Fully responsive design.
 
+### Design Decisions
+* As the pub is quite old and traditional, the design will be influenced by toned down colour schemes and structure. As the pub itself is quite historic, the   
 
+#### Fonts: 
+I opted for Libre Baskerville as it is a more traditional font based on older serif styles. This will compliment the ambience of the pub. While the goal of the website is to encourage
+web visitors to come into the pub, the history of the pub plays a large role in this. With this in mind, Libre Baskerville does a good job of reinforcing this historic feel. 
+
+### Icons:
+Icons will be used to further identify what certain parts of the website do. These should always be relevant, so as to provide a more navigable website and better user experience. The
+burger icon will be utilized on mobile and tablet devices, as this is the universal navigation symbol for smaller screens.  
+
+### Colours
+The pub itself has a dark coral exterior, while darker colours dominate indoors. This will be replicated in the colour scheme of the website. Again, this will maintain the more traditional
+feel. The following color scheme was selected based on this;
+* Primary: #a98a90 "Dark Mauve" - This will be the brightest colour shown throughout the website, although it is still quite toned down. It will be shown across section backgrounds and 
+in some cases icons. 
+* Secondary: #54595F - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
