@@ -9,6 +9,7 @@ body {
 h1 {
 
 }
+
 /*------End General styles */
 
 
@@ -18,10 +19,10 @@ h1 {
 
 /*-----End Header */
 
-
+/*---- Hero section */
 #hero-image {
     height: 90vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://e65dc26c-e289-4bad-9593-038778861180.ws-eu01.gitpod.io/files/download/?id=c6fbbf03-5e4e-4576-a3e4-de4f56185e66");
+    background-image: url("https://e65dc26c-e289-4bad-9593-038778861180.ws-eu01.gitpod.io/files/download/?id=77a8579d-e6c7-491c-ae40-da3f197b5934");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,4 +37,7 @@ h1 {
   color: white;
   opacity: 0.5;
 }
+
+
+/*---- End Hero section */
 
