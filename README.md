@@ -14,6 +14,8 @@ Welcome to my project and thank you for taking a look!
         * Styling 
         * Images 
         * Backgrounds 
+    * Bugs 
+    
     
 
 ## UX 
@@ -48,3 +50,9 @@ feel. The following color scheme was selected based on this;
 * Primary: #a98a90 "Dark Mauve" - This will be the brightest colour shown throughout the website, although it is still quite toned down. It will be shown across section backgrounds and 
 in some cases icons. 
 * Secondary: #54595F - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
+
+
+###Bugs 
+* Nav bar menu not clickable for the toggle icon on smaller screens.
+
+
