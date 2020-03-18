@@ -54,5 +54,6 @@ in some cases icons.
 
 ###Bugs 
 * Nav bar menu not clickable for the toggle icon on smaller screens.
+* Icons were disappearing on smaller screeens. This was solved by changing to max height for sections rather than specifying a fixed height. 
 
 
