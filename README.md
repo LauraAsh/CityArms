@@ -51,7 +51,6 @@ feel. The following color scheme was selected based on this;
 in some cases icons. 
 * Secondary: #54595F - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
 
-
 ###Bugs 
 * Nav bar menu not clickable for the toggle icon on smaller screens.
 * Icons were disappearing on smaller screeens. This was solved by changing to max height for sections rather than specifying a fixed height. 

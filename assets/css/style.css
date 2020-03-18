@@ -23,6 +23,12 @@ h3 {
     font-size: 18px;
 }
 
+.section-title {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+}
+
 
 
 /*------End General styles */
@@ -62,6 +68,7 @@ navbar-toggler {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .hero-text {
@@ -124,4 +131,29 @@ i {
 /*---- End Icon section */
 
 /*---- History section */
+
+#history {
+    max-height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/old-gaol.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 70px 30px;
+    text-align: center;
+}
+
+.history-text {
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.restrict-width {
+    padding: 0 15% 0 15%;
+    
+}
+
+
 /*---- End History section */
