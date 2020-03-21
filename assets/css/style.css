@@ -100,31 +100,69 @@ navbar-toggler {
 }
 /*---- End Hero section */
 
-/*---- Icon section */
+/*---- Icon dark  section */
 
 
-#icons {
+#icons-dark {
     max-height: 90vh;
     background-color: #a98a90;
     text-align: center;
     padding: 55px;
 }
 
-i {
+.icon-light {
     padding-top: 12px;
     color: white;
 }
 
-.circle-border {
+.circle-border-light {
     border: 1px solid white;
     width: 63px;
     height: 63px;
     border-radius: 50%;
 }
 
-.icon-text {
+.icon-text-white {
    padding-top: 15px;
    color: white; 
+}
+
+
+/*---- End Icon section */
+
+/*---- Icon light section */
+
+
+#icons-light {
+    max-height: 90vh;
+    background-color: white;
+    text-align: center;
+    padding: 55px;
+}
+
+.icon-dark {
+    padding-top: 12px;
+    color: #a98a90;
+}
+
+.circle-border-dark {
+    border: 1px solid #a98a90;
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+}
+
+.icon-text-dark {
+   padding-top: 15px;
+   color: #a98a90; 
+}
+
+.food-icon {
+    padding-left: 20%;
+}
+
+.bed-icon {
+    padding-right: 20%;
 }
 
 
