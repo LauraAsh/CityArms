@@ -196,3 +196,29 @@ navbar-toggler {
 
 
 /*---- End History section */
+
+/*---- Footer */
+
+footer {
+    padding: 40px 35px;
+    max-height: 33vh;
+}
+
+.contact-info {
+    display: inline;
+    padding: 8px;
+}
+
+.footer-title {
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-bottom: 8px;
+
+}
+
+.footer-text {
+    font-size: 14px;
+}
+
+/*---- End Footer */
+
