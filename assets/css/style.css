@@ -127,6 +127,16 @@ navbar-toggler {
    color: white; 
 }
 
+ @media screen and (max-width:  768px) {
+    .icon-text-dark {
+        padding-bottom: 18px;
+    }
+
+    #icons-dark {
+        display: none;
+    }
+ }
+
 
 /*---- End Icon section */
 
@@ -156,15 +166,6 @@ navbar-toggler {
    padding-top: 15px;
    color: #a98a90; 
 }
-
-.food-icon {
-    padding-left: 20%;
-}
-
-.bed-icon {
-    padding-right: 20%;
-}
-
 
 /*---- End Icon section */
 
