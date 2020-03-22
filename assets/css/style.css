@@ -29,6 +29,15 @@ h3 {
     font-weight: 700;
 }
 
+.inline {
+    display: inline;
+}
+
+.center {
+    text-align: center;
+}
+
+
 
 
 /*------End General styles */
@@ -200,8 +209,10 @@ navbar-toggler {
 /*---- Footer */
 
 footer {
-    padding: 40px 35px;
-    max-height: 33vh;
+    padding: 15px;
+    max-height: 90vh;
+    background-color: #A98A90;
+    color: white;
 }
 
 .contact-info {
@@ -218,7 +229,55 @@ footer {
 
 .footer-text {
     font-size: 14px;
+    color: white;
 }
+
+
+
+.fb-icon {
+    color: white;
+}
+
+.footer-text:hover {
+  color: #54595F;
+}
+
+@media only screen and (max-width: 768px) {
+    .footer-title {
+        display: none;
+    }
+    
+    .address-icon {
+        text-align: center;
+    }
+
+    .footer-text {
+        padding-top: 5px;
+        text-align: center;
+
+    }
+    
+    .contact-details {
+        text-align: center;
+    }
+    
+    .fb-section {
+        text-align: center;
+    }
+
+    .address-details {
+    text-align: center;
+    }
+
+    .footer-icon {
+        display: none;
+    }
+
+    .fb-text {
+        display: none;
+    }
+    
+    }
 
 /*---- End Footer */
 
