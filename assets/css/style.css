@@ -221,7 +221,7 @@ navbar-toggler {
 
 form {
     width: 50%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Side entrance.jpg');
+    background-color: #a98a90;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
