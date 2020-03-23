@@ -238,7 +238,7 @@ footer {
     color: white;
 }
 
-.footer-text:hover {
+.fb-text:hover, .fb-icon:hover{
   color: #54595F;
 }
 
