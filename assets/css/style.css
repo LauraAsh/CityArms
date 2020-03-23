@@ -209,9 +209,9 @@ navbar-toggler {
 /*---- Footer */
 
 footer {
-    padding: 15px;
+    padding: 30px 5px;
     max-height: 90vh;
-    background-color: #A98A90;
+    background-color: #a98a90;
     color: white;
 }
 
@@ -278,6 +278,13 @@ footer {
     }
     
     }
+
+@media only screen and (min-width: 768px) {
+
+    footer {
+        padding: 50px 120px;
+    }
+}
 
 /*---- End Footer */
 
