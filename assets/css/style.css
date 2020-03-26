@@ -293,6 +293,16 @@ footer {
   color: #54595F;
 }
 
+.address-details {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.address-text {
+    padding-left: 5px;
+}
+
+
 @media only screen and (max-width: 768px) {
     .footer-title {
         display: none;
