@@ -52,7 +52,8 @@ in some cases icons.
 * Secondary: #54595F - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
 
 ###Bugs 
-* Nav bar menu not clickable for the toggle icon on smaller screens.
+* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replace and moved to their correct 
+position before the closing body tag, and the toggle icon worked perfectly on mobile devices!
 * Icons were disappearing on smaller screeens. This was solved by changing to max height for sections rather than specifying a fixed height. 
 
 
