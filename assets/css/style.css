@@ -216,6 +216,21 @@ navbar-toggler {
 
 /*---- End Facebook feed section */
 
+/* Gallery Section */
+
+
+#gallery {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+
+
+/* End Gallery Section */
+
+
+
 /*---- Form section */
 
 
