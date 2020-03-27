@@ -220,9 +220,10 @@ navbar-toggler {
 
 
 #gallery {
+    flex-wrap: wrap;
+    padding: 5px 5px;
     display: flex;
-    justify-content: space-around;
-    padding: 5px;
+    justify-content: space-between;
 }
 
 
