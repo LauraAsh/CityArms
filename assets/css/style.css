@@ -1,11 +1,9 @@
 
-/*------General styles */
+
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700&display=swap');
 
-.container-fluid {
-    padding: 0;
-}
+/* General styles */
 
 body {
     font-family: 'Libre Baskerville', serif;
@@ -23,6 +21,10 @@ h3 {
     font-size: 18px;
 }
 
+.container-fluid {
+    padding: 0;
+}
+
 .section-title {
     text-transform: uppercase;
     font-size: 18px;
@@ -38,15 +40,11 @@ h3 {
     text-align: center;
 }
 
+/* End General styles */
 
 
 
-/*------End General styles */
-
-
-
-/*-----Header */
-
+/* Header */
 
 #nav {
     background-color: transparent;
@@ -64,14 +62,15 @@ h3 {
     padding: 8px;
 }
 
-navbar-toggler {
+.navbar-toggler {
     background-color: white;
     border-color: white;
 }
 
-/*-----End Header */
+/* End Header */
 
-/*---- Hero section */
+/* Hero section */
+
 #hero-image {
     height: 90vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Cover.jpg');
@@ -108,9 +107,10 @@ navbar-toggler {
 .sub-heading {
     padding-bottom: 15px;
 }
-/*---- End Hero section */
 
-/*---- Icon dark  section */
+/* End Hero section */
+
+/* Icon dark  section */
 
 
 #icons-dark {
@@ -148,9 +148,9 @@ navbar-toggler {
  }
 
 
-/*---- End Icon section */
+/*  End Icon section */
 
-/*---- Icon light section */
+/* Icon light section */
 
 
 #icons-light {
@@ -177,9 +177,9 @@ navbar-toggler {
    color: #a98a90; 
 }
 
-/*---- End Icon section */
+/* End Icon section */
 
-/*---- History section */
+/* History section */
 
 #history {
     max-height: 90vh;
@@ -205,16 +205,8 @@ navbar-toggler {
 }
 
 
-/*---- End History section */
+/* End History section */
 
-
-/*---- Facebook feed section */
-
-#facebook-feed {
-    padding: 10px 0px;
-}
-
-/*---- End Facebook feed section */
 
 /* Gallery Section */
 
@@ -227,12 +219,11 @@ navbar-toggler {
 }
 
 
-
 /* End Gallery Section */
 
 
 
-/*---- Form section */
+/* Form section */
 
 
 form {
@@ -247,6 +238,13 @@ form {
     
 }
 
+label {
+    display: inline-block;
+    width: 120px;
+    color: white;
+    font-size: 14px;
+}
+
 input {
     width: 50%;
     padding: 5px;
@@ -259,21 +257,14 @@ input {
     padding: 20px;
 }
 
-label {
-    display: inline-block;
-    width: 120px;
-    color: white;
-    font-size: 14px;
-}
-
 .form-title {
     padding: 10px;
 }
 
 
-/*---- End Form section */
+/* End Form section */
 
-/*---- Footer */
+/* Footer */
 
 footer {
     padding: 30px 5px;
@@ -363,5 +354,5 @@ footer {
     }
 }
 
-/*---- End Footer */
+/* End Footer */
 
