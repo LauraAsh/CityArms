@@ -3,6 +3,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700&display=swap');
 
+html {
+  Font-size: 62.5%;
+}
+
+
 /* General styles */
 
 body {
@@ -10,15 +15,15 @@ body {
 }
 
 h1 {
-    font-size: 38px;
+    font-size: 3.8rem;
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 2.6rem;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 1.8rem;
 }
 
 .container-fluid {
@@ -27,7 +32,7 @@ h3 {
 
 .section-title {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 700;
     color: white;
 }
@@ -58,7 +63,7 @@ h3 {
 
 #nav a {
     color: white;
-    font-size: 12px;
+    font-size: 1.2rem;
     padding: 8px;
 }
 
@@ -94,7 +99,7 @@ h3 {
 
 .home-cta {
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 1.2rem;
     padding: 13px;
     margin-top: 15px;
     letter-spacing: 1px;
@@ -195,7 +200,7 @@ h3 {
 .history-text {
   text-align: center;
   color: white;
-  font-size: 16px;
+  font-size: 1.6rem;
   line-height: 25px;
 }
 
@@ -272,7 +277,7 @@ label {
     display: inline-block;
     width: 120px;
     color: white;
-    font-size: 14px;
+    font-size: 1.4rem;
 }
 
 input {
@@ -310,13 +315,13 @@ footer {
 
 .footer-title {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 1.5rem;
     padding-bottom: 8px;
 
 }
 
 .footer-text {
-    font-size: 14px;
+    font-size: 1.4rem;
     color: white;
 }
 
