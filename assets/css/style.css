@@ -219,14 +219,6 @@ navbar-toggler {
 /* Gallery Section */
 
 
-#gallery {
-    flex-wrap: wrap;
-    padding: 5px 5px;
-    display: flex;
-    justify-content: space-between;
-}
-
-
 
 /* End Gallery Section */
 
