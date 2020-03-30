@@ -52,6 +52,12 @@ h3 {
     padding: 1.2rem 0;
 }
 
+@media only screen and (max-width: 768px) {
+    .section-title {
+    font-size: 1.5rem;
+}
+}
+
 
 
 /* End General styles */
@@ -129,6 +135,15 @@ h3 {
     padding: 1.2rem 0;
 }
 
+@media only screen and (max-width: 768px) {
+    .main-heading {
+        font-size: 2.5rem;
+    }
+
+    .sub-heading {
+        font-size: 2rem;
+    }
+}
 /* End Hero section */
 
 /* Icon dark  section */
@@ -224,9 +239,19 @@ h3 {
 }
 
 .restrict-width {
-    padding: 0 20% 0 20%;
+    padding: 0 20%;
     
 }
+
+
+@media only screen and (max-width: 768px) {
+    .restrict-width {
+        padding: 0 8%;
+    }
+
+   
+}
+
 
 
 /* End History section */
@@ -286,7 +311,7 @@ form {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    max-height: 50vh;
+    max-height: 80vh;
     padding: 5rem;
     text-align:center;
     margin-top: 3px;
@@ -298,6 +323,7 @@ label {
     width: 10%;
     color: #FFFFFF;
     font-size: 1.4rem;
+    padding-right: 1rem;
 }
 
 input {
@@ -316,6 +342,18 @@ input {
     padding: 1rem;
 }
 
+@media only screen and (max-width: 768px) {
+
+    label {
+        width: 28%;
+        font-size: 1.1rem;
+        padding: 2px;
+    }
+
+    form {
+        padding: 3rem 1rem;
+    }
+}
 
 /* End Form section */
 
