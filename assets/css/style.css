@@ -351,6 +351,7 @@ input {
     margin: 9px;
     opacity: 0.8;
     border-radius: 2%;
+    border: 0.5px solid #54595F;
 }
 
 .message {
