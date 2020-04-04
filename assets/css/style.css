@@ -449,3 +449,16 @@ footer {
 
 /* End Footer */
 
+/***Accommdation Page ***/
+
+/* Banner section */
+
+#banner-image {
+    height: 30vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/street-view (3).jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+
+/* End banner section */
