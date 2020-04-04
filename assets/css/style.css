@@ -15,7 +15,9 @@ body {
 }
 
 h1 {
-    font-size: 3.8rem;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    font-weight: 400;
 }
 
 h2 {
@@ -26,6 +28,9 @@ h3 {
     font-size: 1.8rem;
 }
 
+p {
+    font-size: 1.4rem;
+}
 .container-fluid {
     padding: 0;
 }
@@ -50,6 +55,13 @@ h3 {
     border-top: 2px solid #FFFFFF;
     width: 5%;
     padding: 1.2rem 0;
+}
+
+.mauve-line {
+    border-top: 2px solid #a98a90;
+    width: 5%;
+    padding: 1.2rem 0;
+    text-align: left;
 }
 
 @media only screen and (max-width: 768px) {
@@ -454,12 +466,23 @@ footer {
 /* Banner section */
 
 #hero-image-2 {
-    height: 90vh;
+    height: 85vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/double-room.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.hero-text-2 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  font-weight: 700;
 }
 
 /* End banner section */
@@ -470,8 +493,15 @@ footer {
     width: 40%;
 }
 
-.info {
-    padding: 3rem;
+#info {
+    padding: 5rem;
 }
+
+.info-text {
+    padding: 1rem 4rem;
+}
+
+
+
 
 /* End Information Section */
