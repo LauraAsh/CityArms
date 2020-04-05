@@ -334,8 +334,8 @@ form {
     padding: 5rem;
     text-align:center;
     margin-top: 3px;
-    border-top: 3px solid #a98a90;
-    border-bottom: 3px solid #a98a90;
+    border-top: 1px solid #a98a90;
+    border-bottom: 1px solid #a98a90;
 }
 
 label {
