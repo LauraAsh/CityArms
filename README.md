@@ -34,15 +34,17 @@ navigable manner. With all of this in mind, it should encourage users to go and 
 * Use the website across all screen sizes, from desktop to mobile. Fully responsive design.
 
 ### Design Decisions
-* As the pub is quite old and traditional, the design will be influenced by toned down colour schemes and structure. As the pub itself is quite historic, the   
+* As the pub is quite old and traditional, the design will be influenced by toned down colour schemes and structure. As the pub itself is quite historic, photos of the pub itself will
+be a large focus of the design. This will come in the form of hero images and also galleries on each page which showcase the beautiful and old architecture of the building.
 
 #### Fonts: 
-I opted for Libre Baskerville as it is a more traditional font based on older serif styles. This will compliment the ambience of the pub. While the goal of the website is to encourage
-web visitors to come into the pub, the history of the pub plays a large role in this. With this in mind, Libre Baskerville does a good job of reinforcing this historic feel. 
+Regarding fonts, Libre Baskerville was chosen as it is a more traditional font that is based on older serif styles. This will compliment the ambience of the pub. While the goal of the 
+website is to encourage web visitors to come into the pub, the history of the pub plays a large role in this. With this in mind, Libre Baskerville does a good job of reinforcing this 
+historic feel. 
 
 ### Icons:
 Icons will be used to further identify what certain parts of the website do. These should always be relevant, so as to provide a more navigable website and better user experience. The
-burger icon will be utilized on mobile and tablet devices, as this is the universal navigation symbol for smaller screens.  
+burger icon will be utilized on mobile and tablet devices, as this is the universal navigation symbol for smaller screens. This will allow for better user experience on smaller devices.
 
 ### Colours
 The pub itself has a dark coral exterior, while darker colours dominate indoors. This will be replicated in the colour scheme of the website. Again, this will maintain the more traditional
@@ -52,9 +54,9 @@ in some cases icons.
 * Secondary: #54595F - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
 
 ###Bugs 
-* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replace and moved to their correct 
+* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replaced and moved to their correct 
 position before the closing body tag, and the toggle icon worked perfectly on mobile devices!
-* Icons were disappearing on smaller screeens. This was solved by changing to max height for sections rather than specifying a fixed height. 
+* Icons were disappearing on smaller screees. This was solved by changing to max height for sections rather than specifying a fixed height. 
 * When building the gallery, the styling for the footer and the form broke. After some debugging it seemed the media queries were causing this, as when they were commented out the problem 
 was solved. Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
 as normal to the form and footer. 
