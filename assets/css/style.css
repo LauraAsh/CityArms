@@ -77,7 +77,10 @@ p {
 }
 }
 
-
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+}
 
 /* End General styles */
 
@@ -92,13 +95,12 @@ p {
     text-transform: uppercase;
     letter-spacing: 1px;
     width: 100%;
-    float: left;
 }
 
 #nav a {
     color: #FFFFFF;
     font-size: 1.2rem;
-    padding: 8px;
+    padding: 0.8rem 1.5rem;
 }
 
 .navbar-toggler {
