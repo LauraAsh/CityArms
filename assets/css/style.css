@@ -400,12 +400,10 @@ footer {
     max-height: 90vh;
     background-color: #a98a90;
     color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
 }
 
-.contact-info {
-    display: inline;
-    padding: 0.8rem;
-}
 
 .footer-title {
     text-transform: uppercase;
@@ -419,7 +417,14 @@ footer {
     color: #FFFFFF;
 }
 
+.footer-icon {
+    padding: 5px;
+    color: #FFFFFF;
+}
 
+.icon-text {
+    align-content: flex-start;
+}
 
 .fb-icon {
     color: #FFFFFF;
@@ -429,59 +434,31 @@ footer {
   color: #54595F;
 }
 
-.address-details {
-    display: flex;
-    justify-content: flex-start;
+@media (min-width: 768px) {
+
+    .icon-text {
+        display: flex;
 }
 
-.address-text {
-    padding-left: 5px;
-}
+ }
 
+@media (max-width: 576px) {
 
-@media only screen and (max-width: 768px) {
     .footer-title {
         display: none;
     }
-    
-    .address-icon {
-        text-align: center;
-    }
-
-    .footer-text {
-        padding-top: 5px;
-        text-align: center;
-
-    }
-    
-    .contact-details {
-        text-align: center;
-    }
-    
-    .fb-section {
-        text-align: center;
-    }
-
-    .address-details {
-    text-align: center;
-    }
-
-    .footer-icon {
-        display: none;
-    }
-
-    .fb-text {
-        display: none;
-    }
-    
-    }
-
-@media only screen and (min-width: 768px) {
 
     footer {
-        padding: 5rem 12rem;
+        text-align: center;
+    }
+
+    .phone, .address {
+        display: none;
     }
 }
+
+ }
+
 
 /* End Footer */
 
