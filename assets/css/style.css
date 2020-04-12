@@ -56,8 +56,9 @@ p {
 
 .white-line {
     border-top: 2px solid #FFFFFF;
-    width: 5%;
+    width: 3%;
     padding: 1.2rem 0;
+    display: inline-block;
 }
 
 .mauve-line {
@@ -157,8 +158,9 @@ p {
 
 .white-line-main {
     border-top: 2px solid #FFFFFF;
-    width: 17%;
+    width: 5%;
     padding: 1.2rem 0;
+    display: inline-block;
 }
 
 @media only screen and (max-width: 768px) {
@@ -193,6 +195,7 @@ p {
     height: 6.3rem;
     border-radius: 50%;
 }
+
 
 .icon-text-white {
    padding-top: 1.5rem;
