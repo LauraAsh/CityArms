@@ -448,13 +448,14 @@ footer {
         display: none;
     }
 
-    .wrap {
-        display: flex;
-    }
-
     footer {
         text-align: center;
+        justify-content: center;
+    }
+
+    footer div {
         flex-wrap: wrap;
+        width: 100%;
     }
 
     .phone, .address {
