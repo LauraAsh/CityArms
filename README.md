@@ -64,5 +64,45 @@ was solved. Further inspection revealed that the media query was not closed prop
 as normal to the form and footer. 
 
 ## Technologies used
+
+### Languages:
+
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+* <a href="https://www.w3schools.com/js/">JavaScript</a>
+
+### Frameworks & tools:
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
+
+
 ## Testing
+
+Implementing a good testing plan was a priority for me from the outset of this project, especially considering it was the first website I have fully built. For this reason, a close eye was kept on 
+the outcome of any code changes or adaptations to the design. 
+
+#### Testing Stories 
+
+* Originally I was planning on using a lot more of the dark mauve #a98a90 in the design. However, when I began building out the website design this colour looked too dominant. Instead I opted for more white
+background than originally intended, and also used a transparent nav bar so the hero image could come through behind it. 
+
+* 
+
+<strong>Responsiveness</strong>
+* Plan: Similar to most modern websites, it was important this worked effectively across all devices. A close eye was kept on the dev tools, which was used the check how the website looked on different
+screen sizes throughout. Utilizing Bootstrap was also a choice made here for responsive design, and in some cases flexbox was used too. 
+* Implementation: While working with Bootstrap, I was checking the documentation frequently ensuring all the classes were being implemented in the correct way. The format was consistently checked - container,
+row, column. This ensured that each breakpoint was receiving the correct content. 
+* Result: The website is fully functional on all devices.
+* Verdict: This test has been successful as the website is fully responsive.
+
+<strong>Design and aesthetics</strong>
+* Plan: The challenge here was to keep the traditional feel of the pub throughout the website. This was to be achieved through a simple colour scheme, that echoed the colour of the pub itself. Imagery of
+the pub was also to be used to showcase the traditional pub. Throughout each stage of building the website, this was checked to ensure this was achieved.
+* Implementation: This involved balancing out the colours and sections. In this testing phase, the colours and elements were run and decisions were made on whether these were suitable. In some cases, for
+example the form, the dark mauve colour was changed to white so as not to overpower the imagery. Older images of the pub were also showcased in the background while the parallex effect gave the impression
+that elements were moving with the page. This allowed a nice effect without utilizing anything too fancy that would go against the pub's authenticity. 
+* Result: After a few minor changes along the way, the website is designed nice and simple with images of the pub shown in the background of some elements. 
+* Verdict: This test has been successfully passed as the colour scheme and imagery suits the traditional feel of the pub. 
+
 ## Credits
