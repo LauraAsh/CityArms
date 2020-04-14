@@ -442,20 +442,24 @@ footer {
 
  }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
 
     .footer-title {
         display: none;
     }
 
+    .wrap {
+        display: flex;
+    }
+
     footer {
         text-align: center;
+        flex-wrap: wrap;
     }
 
     .phone, .address {
         display: none;
     }
-}
 
  }
 
