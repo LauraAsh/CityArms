@@ -121,9 +121,10 @@ p {
 }
 
 .sticky {
-	position: sticky;
+	position: sticky !important;
 	top: 0;
-	background-color: rgba(84, 89, 95, 0.7)
+	background-color: rgba(84, 89, 95, 0.7) !important;
+    z-index: 99999999999;
 }
 
 /* End Header */
