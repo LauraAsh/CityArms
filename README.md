@@ -86,7 +86,9 @@ the outcome of any code changes or adaptations to the design.
 * Originally I was planning on using a lot more of the dark mauve #a98a90 in the design. However, when I began building out the website design this colour looked too dominant. Instead I opted for more white
 background than originally intended, and also used a transparent nav bar so the hero image could come through behind it. 
 
-* 
+* At one point the accommodation section was on a separate page, but this later was added to index.html. This had the effect of bringing the website together into one full webpage which was a cleaner design. 
+
+
 
 <strong>Responsiveness</strong>
 * Plan: Similar to most modern websites, it was important this worked effectively across all devices. A close eye was kept on the dev tools, which was used the check how the website looked on different
