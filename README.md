@@ -4,7 +4,7 @@ Welcome to my project and thank you for taking a look!
 
 ## Contents
 
-*       UX 
+* UX 
     * Overall Project Goals
     * User Goals
     * Design Decisions
