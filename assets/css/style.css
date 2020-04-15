@@ -120,6 +120,12 @@ p {
     border-color: #FFFFFF;
 }
 
+.sticky {
+	position: sticky;
+	top: 0;
+	background-color: rgba(84, 89, 95, 0.7)
+}
+
 /* End Header */
 
 /* Hero section */
