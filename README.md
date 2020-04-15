@@ -90,6 +90,7 @@ background than originally intended, and also used a transparent nav bar so the 
 
 
 
+
 <strong>Responsiveness</strong>
 * Plan: Similar to most modern websites, it was important this worked effectively across all devices. A close eye was kept on the dev tools, which was used the check how the website looked on different
 screen sizes throughout. Utilizing Bootstrap was also a choice made here for responsive design, and in some cases flexbox was used too. 

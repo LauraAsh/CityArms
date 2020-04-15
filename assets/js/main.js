@@ -8,9 +8,9 @@ $(document).ready(function () {
   $(document).scroll(function () {
     scroll_pos = $(this).scrollTop();
     if (scroll_pos < 5) {
-      $("#nav").addClass("sticky");
-    } else {
       $("#nav").removeClass("sticky");
+    } else {
+      $("#nav").addClass("sticky");
     }
   });
 });
