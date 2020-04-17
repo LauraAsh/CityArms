@@ -79,12 +79,18 @@ as normal to the form and footer.
 ## User stories
 
 Each of the following user stories contributed to the design of the website, to ensure the user had the most effortless experience;
-* As a user I would expect to be able to contact the website owner by filling out a form. This could be used to enquire about restaurant or accomodation bookings, or even just for general
-queries. 
+* As a user I would expect to be able to contact the website owner by filling out a form or else via the phone. This could be used to enquire about restaurant or accomodation bookings, or even 
+just for general queries. Both a contact form and the phone number of the pub are on the website.
 * As a user I would expect to be able to navigate to different parts of the website by selecting different options in the nav bar. This was achieved through linking different sections of 
 the website to each of the buttons in the nav bar. 
 * As a user I would expect to be able to find the location of the pub so I had the information to visit it should I wish. This was included by embedding Google maps and also including 
 address details in the footer. 
+* As a user I would expect to have an understanding of the main services offered by the pub. In this case it would be accommodation, food and drink, which we can see from the icons
+displaying this information on the website. 
+* As a user I would expect to be able to see some imagery of the pub before I went to see it. This is especially relevant for the accommdation section, where users would like to see
+how a place looked before they booked to stay there. There are two separate photo galleries built in - one for a the restaurant and the other for the accommodation. 
+
+
 
 
 
