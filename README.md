@@ -76,6 +76,17 @@ as normal to the form and footer.
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 
+## User stories
+
+Each of the following user stories contributed to the design of the website, to ensure the user had the most effortless experience;
+* As a user I would expect to be able to contact the website owner by filling out a form. This could be used to enquire about restaurant or accomodation bookings, or even just for general
+queries. 
+* As a user I would expect to be able to navigate to different parts of the website by selecting different options in the nav bar. This was achieved through linking different sections of 
+the website to each of the buttons in the nav bar. 
+* As a user I would expect to be able to find the location of the pub so I had the information to visit it should I wish. This was included by embedding Google maps and also including 
+address details in the footer. 
+
+
 
 ## Testing
 
