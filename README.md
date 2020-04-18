@@ -144,5 +144,12 @@ Broken styling for footer and form:
 * **Verdict:** Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
 as normal to the form and footer. 
 
+## Closing Notes:
+Working with this project really expanded both my knowledge of frontend languages and frameworks, and also of good UX practices. Working throughout the project and building the code from scratch was really useful
+and I loved the opportunity to apply anything I had previously learned through online resources. It was the first time I had also used Git when building out a project, which was also really useful experience. I
+had a few minor issues with this along the way, for example committing without first saving and also messing up a couple of branches. However, by the end of it I felt I had a much better grip on the technology 
+for moving forward. At this point I'm really excited to continue to work and projects and apply everything I learned within this one. It was good to be able to learn from mistakes, especially with advice from 
+[Simen Daehlin](https://github.com/Eventyret) along the way on best practices and more. 
+
 ## Credits
 * The JavaScript for the navbar was written by my mentor [Simen Daehlin](https://github.com/Eventyret).
