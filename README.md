@@ -10,21 +10,18 @@ and a solitary cell. The challenge of this product was to build out a fully func
 
 * UX
     * [Overall Project Goals](#overall-project-goals)
-    * User Goals
-    * Design Decisions
-        * Fonts 
-        * Icons 
-        * Colours
-        * Styling 
-        * Images 
-        * Backgrounds 
-* Bugs 
-* Technologies Used
-    * Languages
-    * Frameworks
-* User Stories 
-* Testing
-* Credits
+    * [User Goals](#user-goals)
+    * [Design Decisions](#design-decisions)
+        * [Fonts](#fonts)
+        * [Icons](#icons)
+        * [Colours](#colours)
+* [Bugs](#bugs) 
+* [Technologies Used](#technologies-used)
+    * [Languages](#languages)
+    * [Frameworks](#frameworks)
+* [User Stories](#user-stories)
+* [Testing](#testing)
+* [Credits](#credits)
     
 
 ## UX 
