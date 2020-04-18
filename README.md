@@ -9,7 +9,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
 ## Contents
 
 * UX
-    * Overall Project Goals
+    * [Overall Project Goals](#overall-project-goals)
     * User Goals
     * Design Decisions
         * Fonts 
@@ -28,7 +28,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
     
 
 ## UX 
-### Project Goals 
+### Overall Project Goals 
 
 The overall objective of this project is to give users information about a pub and restaurant located in Wells, England. This is a history rich pub that used to be an old city jail. 
 It is aimed towards both tourists and locals alike, who are looking for something to eat, drink or just have a look at the old building. There are also rooms upstairs offering 
