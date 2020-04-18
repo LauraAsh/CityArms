@@ -127,6 +127,8 @@ p {
     z-index: 99999999999;
 }
 
+
+
 /* End Header */
 
 /* Hero section */
@@ -294,6 +296,10 @@ p {
     .history-text {
         font-size: 1.2rem;
     }
+
+    .mobile-hide {
+    display: none;
+}
 
    
 }
