@@ -261,7 +261,7 @@ p {
 
 #history {
     min-height: 50vh;
-    max-height: 90vh;
+    max-height: 120vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/historic-city-arms.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -289,6 +289,10 @@ p {
 @media only screen and (max-width: 768px) {
     .restrict-width {
         padding: 0 8%;
+    }
+
+    .history-text {
+        font-size: 1.2rem;
     }
 
    
