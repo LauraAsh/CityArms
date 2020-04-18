@@ -18,7 +18,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
 * [Bugs](#bugs) 
 * [Technologies Used](#technologies-used)
     * [Languages](#languages)
-    * [Frameworks, Libraries and Tools](#frameworks,-libraries-and-tools)
+    * [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
 * [User Stories](#user-stories)
 * [Testing](#testing)
 * [Credits](#credits)
