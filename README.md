@@ -18,7 +18,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
 * [Bugs](#bugs) 
 * [Technologies Used](#technologies-used)
     * [Languages](#languages)
-    * [Frameworks Libraries and Tools](#frameworks-libraries-and-tools)
+    * [Libraries and Tools](#libraries-and-tools)
 * [User Stories](#user-stories)
 * [Testing](#testing)
 * [Credits](#credits)
@@ -75,7 +75,7 @@ as normal to the form and footer.
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
 * <a href="https://www.w3schools.com/js/">JavaScript</a>
 
-### Frameworks, Libraries and Tools
+### Libraries and Tools
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 * <a href="https://fonts.google.com/">Google Fonts</a>
