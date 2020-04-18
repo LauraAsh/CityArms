@@ -262,7 +262,7 @@ p {
 #history {
     min-height: 50vh;
     max-height: 90vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/old-gaol.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/historic-city-arms.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
