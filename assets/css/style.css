@@ -438,6 +438,9 @@ footer {
         font-size: 2rem;
     }
 
+    .history-text {
+        font-size: 1.4rem;
+    }
     .icon-text-dark {
         padding-bottom: 1.8rem;
     }
@@ -448,10 +451,6 @@ footer {
 
     .restrict-width {
         padding: 0 8%;
-    }
-
-    .history-text {
-        font-size: 1.2rem;
     }
 
     .mobile-hide {
@@ -468,7 +467,7 @@ footer {
         padding: 3rem 1rem;
     }
 
-       .footer-title {
+    .footer-title {
         display: none;
     }
 
@@ -496,4 +495,8 @@ footer {
     flex: 100%;
     max-width: 100%;
   }
+
+  .history-text {
+        font-size: 1.2rem;
+    }
 }
