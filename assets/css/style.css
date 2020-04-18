@@ -425,15 +425,6 @@ footer {
 
 /* Media Queries*/ 
 
-@media (min-width: 768px) {
-
-    .icon-text {
-        display: flex;
-    }
-
- }
-
-
 @media only screen and (max-width: 768px) {
     .section-title {
     font-size: 1.5rem;
