@@ -20,6 +20,8 @@ and a solitary cell. The challenge of this product was to build out a fully func
         * Backgrounds 
 * Bugs 
 * Technologies used
+    * Languages
+    * Frameworks
 * User stories 
 * Testing
 * Credits
@@ -49,11 +51,11 @@ Regarding fonts, Libre Baskerville was chosen as it is a more traditional font t
 website is to encourage web visitors to come into the pub, the history of the pub plays a large role in this. With this in mind, Libre Baskerville does a good job of reinforcing this 
 historic feel. 
 
-### Icons:
+#### Icons:
 Icons will be used to further identify what certain parts of the website do. These should always be relevant, so as to provide a more navigable website and better user experience. The
 burger icon will be utilized on mobile and tablet devices, as this is the universal navigation symbol for smaller screens. This will allow for better user experience on smaller devices.
 
-### Colours
+#### Colours
 The pub itself has a dark coral exterior, while darker colours dominate indoors. This will be replicated in the colour scheme of the website. Again, this will maintain the more traditional
 feel. The following color scheme was selected based on this;
 * Primary: #a98a90 "Dark Mauve" - This will be the brightest colour shown throughout the website, although it is still quite toned down. It will be shown across section backgrounds and 
