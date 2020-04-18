@@ -478,7 +478,7 @@ footer {
 
 /* Banner section */
 
-#hero-image-2 {
+#accommodation {
     height: 85vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/double-room.jpg');
     background-position: center;
