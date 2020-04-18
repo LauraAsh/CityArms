@@ -127,11 +127,21 @@ that elements were moving with the page. This allowed a nice effect without util
 * Verdict: This test has been successfully passed as the **colour scheme and imagery suits the traditional feel of the pub**. 
 
 ## Bugs 
-* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replaced and moved to their correct 
-position before the closing body tag, and the toggle icon worked perfectly on mobile devices!
-* Icons were disappearing on smaller screees. This was solved by changing to max height for sections rather than specifying a fixed height. 
-* When building the gallery, the styling for the footer and the form broke. After some debugging it seemed the media queries were causing this, as when they were commented out the problem 
-was solved. Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
+Nav bar on smaller screens:
+* **Bug:** Nav bar menu not clickable for the toggle icon on smaller screens. While the burger icon was present, it did not expand the menu upon clicking.
+* **Fix:** It was discovered that this was a result of having the incorrect scripts in the header. These were replaced and moved to their correct 
+position before the closing body tag
+* **Verdict:** The toggle icon worked perfectly on mobile devices and expanded to show the navigation menu once clicked.
+
+Icons disappearing on smaller screens:
+* **Bug:** The icons were cut off on smaller devices and weren't fully visible which was not a responsive design.
+* **Fix:** It emerged that there was a set viewport height for the section. On smaller devices, the icons stacked and exceeded the height set for this section.
+* **Verdict:** This was solved by changing to max height for sections rather than specifying a fixed height. 
+
+Broken styling for footer and form:
+* **Bug:** When building the gallery, the styling for the footer and the form broke.
+* **Fix:** After some debugging it seemed the media queries were causing this, as when they were commented out the problem was solved. 
+* **Verdict:** Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
 as normal to the form and footer. 
 
 ## Credits
