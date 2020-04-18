@@ -133,7 +133,7 @@ p {
 
 #hero-image {
     height: 90vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Cover.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/city-arms-front.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
