@@ -153,3 +153,8 @@ for moving forward. At this point I'm really excited to continue to work and pro
 
 ## Credits
 * The JavaScript for the navbar was written by my mentor [Simen Daehlin](https://github.com/Eventyret).
+
+## Copyright and Disclaimer 
+
+All images © Bruce Ashmore
+This website was originally built for education purposes and will later go live for the pub's website. 
