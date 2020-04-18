@@ -8,7 +8,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
 
 ## Contents
 
-* UX
+* [UX](#ux)
     * [Overall Project Goals](#overall-project-goals)
     * [User Goals](#user-goals)
     * [Design Decisions](#design-decisions)
@@ -18,7 +18,7 @@ and a solitary cell. The challenge of this product was to build out a fully func
 * [Bugs](#bugs) 
 * [Technologies Used](#technologies-used)
     * [Languages](#languages)
-    * [Frameworks](#frameworks)
+    * [Frameworks, Libraries and Tools](#frameworks,-libraries-and-toolsgit a)
 * [User Stories](#user-stories)
 * [Testing](#testing)
 * [Credits](#credits)
