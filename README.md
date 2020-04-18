@@ -114,7 +114,7 @@ to jump to different sections of the website, regardless of where the user was o
 from each part of the website. 
 
 
-<strong>Responsiveness</strong>
+##### Responsiveness 
 * Plan: Similar to most modern websites, it was important this worked effectively across all devices. A close eye was kept on the dev tools, which was used the check how the website looked on different
 screen sizes throughout. Utilizing Bootstrap was also a choice made here for responsive design, and in some cases flexbox was used too. 
 * Implementation: While working with Bootstrap, I was checking the documentation frequently ensuring all the classes were being implemented in the correct way. The format was consistently checked - container,
@@ -122,7 +122,7 @@ row, column. This ensured that each breakpoint was receiving the correct content
 * Result: The website is fully functional on all devices.
 * Verdict: This test has been successful as the website is fully responsive.
 
-<strong>Design and aesthetics</strong>
+##### Design and aesthetics
 * Plan: The challenge here was to keep the traditional feel of the pub throughout the website. This was to be achieved through a simple colour scheme, that echoed the colour of the pub itself. Imagery of
 the pub was also to be used to showcase the traditional pub. Throughout each stage of building the website, this was checked to ensure this was achieved.
 * Implementation: This involved balancing out the colours and sections. In this testing phase, the colours and elements were run and decisions were made on whether these were suitable. In some cases, for
