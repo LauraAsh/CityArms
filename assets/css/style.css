@@ -449,6 +449,10 @@ footer {
         display: none;
     }
 
+    #hero-image {
+        max-height: 100vh;
+    }
+
     .restrict-width {
         padding: 0 8%;
     }
@@ -491,12 +495,18 @@ footer {
   }
 
 @media only screen and (max-width: 600px) {
+    
+    h2 {
+        font-size: 1.9rem;
+    }
+
     .flex-col {
     flex: 100%;
     max-width: 100%;
   }
 
-  .history-text {
-        font-size: 1.2rem;
+    .info-text {
+        padding: 0;
     }
+
 }
