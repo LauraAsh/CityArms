@@ -83,12 +83,6 @@ p {
 }
 
 
-@media only screen and (max-width: 768px) {
-    .section-title {
-    font-size: 1.5rem;
-}
-}
-
 .flex-container {
     display: flex;
     justify-content: flex-start;
@@ -178,15 +172,6 @@ p {
     display: inline-block;
 }
 
-@media only screen and (max-width: 768px) {
-    .main-heading {
-        font-size: 2.5rem;
-    }
-
-    .sub-heading {
-        font-size: 2rem;
-    }
-}
 /* End Hero section */
 
 /* Icon dark  section */
@@ -216,16 +201,6 @@ p {
    padding-top: 1.5rem;
    color: #FFFFFF; 
 }
-
- @media screen and (max-width:  768px) {
-    .icon-text-dark {
-        padding-bottom: 1.8rem;
-    }
-
-    #icons-dark {
-        display: none;
-    }
- }
 
 
 /*  End Icon section */
@@ -288,29 +263,10 @@ p {
 }
 
 
-@media only screen and (max-width: 768px) {
-    .restrict-width {
-        padding: 0 8%;
-    }
-
-    .history-text {
-        font-size: 1.2rem;
-    }
-
-    .mobile-hide {
-    display: none;
-}
-
-   
-}
-
-
-
 /* End History section */
 
 
 /* Gallery Section */
-
 
 
 .flex-row {
@@ -334,21 +290,6 @@ p {
     width: 100%;
 }
 
-
-
-@media only screen and (max-width: 800px) {
-  .flex-col {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .flex-col {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
 
 /* End Gallery Section */
 
@@ -395,19 +336,6 @@ input {
     padding: 1rem;
 }
 
-@media only screen and (max-width: 768px) {
-
-    label {
-        width: 28%;
-        font-size: 1.1rem;
-        padding: 2px;
-    }
-
-    form {
-        padding: 3rem 1rem;
-    }
-}
-
 /* End Form section */
 
 /* Footer */
@@ -450,37 +378,6 @@ footer {
 .fb-text:hover, .fb-icon:hover{
   color: #54595F;
 }
-
-@media (min-width: 768px) {
-
-    .icon-text {
-        display: flex;
-}
-
- }
-
-@media (max-width: 768px) {
-
-    .footer-title {
-        display: none;
-    }
-
-    footer {
-        text-align: center;
-        justify-content: center;
-    }
-
-    footer div {
-        flex-wrap: wrap;
-        width: 100%;
-    }
-
-    .phone, .address {
-        display: none;
-    }
-
- }
-
 
 /* End Footer */
 
@@ -525,3 +422,102 @@ footer {
 }
 
 /* End Information Section */
+
+/* Media Queries*/ 
+
+@media only screen and (max-width: 768px) {
+    .section-title {
+    font-size: 1.5rem;
+    }
+
+    .main-heading {
+        font-size: 2.5rem;
+    }
+
+    .sub-heading {
+        font-size: 2rem;
+    }
+}
+
+ @media screen and (max-width:  768px) {
+    .icon-text-dark {
+        padding-bottom: 1.8rem;
+    }
+
+    #icons-dark {
+        display: none;
+    }
+ }
+
+ @media only screen and (max-width: 768px) {
+    .restrict-width {
+        padding: 0 8%;
+    }
+
+    .history-text {
+        font-size: 1.2rem;
+    }
+
+    .mobile-hide {
+    display: none;
+}
+
+   
+}
+
+@media only screen and (max-width: 768px) {
+
+    label {
+        width: 28%;
+        font-size: 1.1rem;
+        padding: 2px;
+    }
+
+    form {
+        padding: 3rem 1rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+  .flex-col {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .flex-col {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+
+    .icon-text {
+        display: flex;
+}
+
+ }
+
+@media (max-width: 768px) {
+
+    .footer-title {
+        display: none;
+    }
+
+    footer {
+        text-align: center;
+        justify-content: center;
+    }
+
+    footer div {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .phone, .address {
+        display: none;
+    }
+
+ }
