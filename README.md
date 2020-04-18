@@ -135,4 +135,4 @@ that elements were moving with the page. This allowed a nice effect without util
 * Verdict: This test has been successfully passed as the colour scheme and imagery suits the traditional feel of the pub. 
 
 ## Credits
-* The JavaScript for the navbar was written by my mentor Simen Daehlin.
+* The JavaScript for the navbar was written by my mentor [Simen Daehlin](#https://github.com/Eventyret).
