@@ -2,6 +2,10 @@
 
 Welcome to my project and thank you for taking a look! 
 
+This project is a website that was built for an old traditional pub called the City Arms located in Wells, England. The city is the smallest in England, with a population of 12,000. 
+The building of City Arms dates back to 1549 when it was used as the city jail. Much of this building remains intact today, including the original barred windows, locks and chains
+and a solitary cell. The challenge of this product was to build out a fully functioning website that still encompassed the traditional feel of the pub. 
+
 ## Contents
 
 * UX
