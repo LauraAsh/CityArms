@@ -386,7 +386,7 @@ footer {
 /* Banner section */
 
 #accommodation {
-    height: 85vh;
+    height: 88vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/double-room.jpg');
     background-position: center;
     background-repeat: no-repeat;
@@ -424,6 +424,12 @@ footer {
 /* End Information Section */
 
 /* Media Queries*/ 
+
+@media only screen and (max-width: 1600px) {
+    #accommodation {
+    height: 80vh;
+    }
+}
 
 @media only screen and (max-width: 768px) {
     .section-title {
@@ -490,6 +496,11 @@ footer {
     max-width: 50%;
   }
 
+  #accommodation {
+    height: 90vh;
+  }
+}
+
 @media only screen and (max-width: 600px) {
     
     h2 {
@@ -520,10 +531,14 @@ footer {
         font-size: 1rem;
     }
 
-      .main-heading {
+    .main-heading {
         font-size: 2.2rem;
     }
 
     .sub-heading {
         font-size: 1.8rem;
+    }
+
+    #accommodation {
+        height: 75vh;
     }
