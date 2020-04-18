@@ -78,9 +78,15 @@ as normal to the form and footer.
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
 * <a href="https://www.w3schools.com/js/">JavaScript</a>
 
-### Frameworks & Tools
+### Frameworks, Libraries & Tools
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
+* <a href="https://fonts.google.com/">Google Fonts</a>
+* <a href="https://jquery.com/">jQuery</a>
+* <a href="https://popper.js.org/">Popper.js</a>
+* <a href="https://www.google.com/maps">Google Maps</a>
+* <a href="https://git-scm.com/">Git</a>
+
 
 ## User Stories
 
