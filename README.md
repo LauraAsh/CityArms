@@ -109,8 +109,8 @@ background than originally intended, and also used a transparent nav bar so the 
 
 * At one point the accommodation section was on a separate page, but this later was added to index.html. This had the effect of bringing the website together into one full webpage which was a cleaner design. 
 
-* The website originally had just the transparent nav bar which was visible at the very top. However, it would be a better user experience if the nav bar was visible to jump to different sections
-of the website, regardless of where the user was on the page. With this in mind, my mentor Simon Daehlin wrote some Javascript which meant the nav bar would be sticky and accessible
+* The website originally had just the transparent nav bar which was visible at the very top. However, it was decided it would be a better user experience if the nav bar was visible
+to jump to different sections of the website, regardless of where the user was on the page. With this in mind, my mentor Simon Daehlin wrote some Javascript which meant the nav bar would be sticky and accessible
 from each part of the website. 
 
 
