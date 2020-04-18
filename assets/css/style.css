@@ -433,12 +433,6 @@ footer {
 
  }
 
-@media only screen and (min-width: 600px) {
-  .flex-col {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
 
 @media only screen and (max-width: 768px) {
     .section-title {
@@ -501,4 +495,14 @@ footer {
         display: none;
     }
 
+    .flex-col {
+    flex: 50%;
+    max-width: 50%;
+  }
 
+@media only screen and (max-width: 600px) {
+    .flex-col {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
