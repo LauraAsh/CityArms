@@ -59,14 +59,6 @@ feel. The following color scheme was selected based on this;
 in some cases icons. 
 * **Secondary: #54595F** - This is a dark charcoal grey, which compliments the dark mauve. This will be utilized for text headings and also icons in some cases.
 
-## Bugs 
-* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replaced and moved to their correct 
-position before the closing body tag, and the toggle icon worked perfectly on mobile devices!
-* Icons were disappearing on smaller screees. This was solved by changing to max height for sections rather than specifying a fixed height. 
-* When building the gallery, the styling for the footer and the form broke. After some debugging it seemed the media queries were causing this, as when they were commented out the problem 
-was solved. Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
-as normal to the form and footer. 
-
 ## Technologies Used
 
 ### Languages
@@ -133,6 +125,14 @@ example the form, the dark mauve colour was changed to white so as not to overpo
 that elements were moving with the page. This allowed a nice effect without utilizing anything too fancy that would go against the pub's authenticity. 
 * Result: After a few minor changes along the way, the website is designed nice and simple with **images of the pub shown in the background** of some elements. 
 * Verdict: This test has been successfully passed as the **colour scheme and imagery suits the traditional feel of the pub**. 
+
+## Bugs 
+* Nav bar menu not clickable for the toggle icon on smaller screens. This ended up a result of having the incorrect scripts in the header. These were replaced and moved to their correct 
+position before the closing body tag, and the toggle icon worked perfectly on mobile devices!
+* Icons were disappearing on smaller screees. This was solved by changing to max height for sections rather than specifying a fixed height. 
+* When building the gallery, the styling for the footer and the form broke. After some debugging it seemed the media queries were causing this, as when they were commented out the problem 
+was solved. Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
+as normal to the form and footer. 
 
 ## Credits
 * The JavaScript for the navbar was written by my mentor [Simen Daehlin](https://github.com/Eventyret).
