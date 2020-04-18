@@ -21,7 +21,12 @@ and a solitary cell. The challenge of this product was to build out a fully func
     * [Libraries and Tools](#libraries-and-tools)
 * [User Stories](#user-stories)
 * [Testing](#testing)
+* [Closing Notes](#closing-notes)
 * [Credits](#credits)
+* [Copyright and Disclaimer](#copyright-and-disclaimer)
+
+
+
     
 
 ## UX 
