@@ -35,7 +35,7 @@ It is aimed towards both tourists and locals alike, who are looking for somethin
 lovely accommodation. This website should be easy to navigate, while aiming to provide users with everything they need to know about this old pub in an easily
 navigable manner. With all of this in mind, it should encourage users to go and check out the pub for themselves. 
 
-### User Goals:
+### User Goals
 * Informative website that serves to provide all needed information about the pub, for example food, drink, opening times and accommdation availability.
 * Well placed calls to action which inspire users to get in touch with the pub and continue their experience offline
 * Ability to send a message via a contact form for ease of access
@@ -46,12 +46,12 @@ navigable manner. With all of this in mind, it should encourage users to go and 
 * As the pub is quite old and traditional, the design will be influenced by toned down colour schemes and structure. As the pub itself is quite historic, photos of the pub itself will
 be a large focus of the design. This will come in the form of hero images and also galleries on each page which showcase the beautiful and old architecture of the building.
 
-#### Fonts: 
+#### Fonts
 Regarding fonts, Libre Baskerville was chosen as it is a more traditional font that is based on older serif styles. This will compliment the ambience of the pub. While the goal of the 
 website is to encourage web visitors to come into the pub, the history of the pub plays a large role in this. With this in mind, Libre Baskerville does a good job of reinforcing this 
 historic feel. 
 
-#### Icons:
+#### Icons
 Icons will be used to further identify what certain parts of the website do. These should always be relevant, so as to provide a more navigable website and better user experience. The
 burger icon will be utilized on mobile and tablet devices, as this is the universal navigation symbol for smaller screens. This will allow for better user experience on smaller devices.
 
@@ -70,19 +70,19 @@ position before the closing body tag, and the toggle icon worked perfectly on mo
 was solved. Further inspection revealed that the media query was not closed properly, which had caused this. Adding an extra curly bracket, the syntax error was fixed and the styling returned
 as normal to the form and footer. 
 
-## Technologies used
+## Technologies Used
 
-### Languages:
+### Languages
 
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
 * <a href="https://www.w3schools.com/js/">JavaScript</a>
 
-### Frameworks & tools:
+### Frameworks & Tools
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 
-## User stories
+## User Stories
 
 Each of the following user stories contributed to the design of the website, to ensure the user had the most effortless experience;
 * As a user I would expect to be able to contact the website owner by filling out a form or else via the phone. This could be used to enquire about restaurant or accomodation bookings, or even 
@@ -122,7 +122,7 @@ row, column. This ensured that each breakpoint was receiving the correct content
 * Result: The website is fully functional on all devices.
 * Verdict: This test has been successful as the website is fully responsive.
 
-##### Design and aesthetics
+##### Design and Aesthetics
 * Plan: The challenge here was to keep the traditional feel of the pub throughout the website. This was to be achieved through a simple colour scheme, that echoed the colour of the pub itself. Imagery of
 the pub was also to be used to showcase the traditional pub. Throughout each stage of building the website, this was checked to ensure this was achieved.
 * Implementation: This involved balancing out the colours and sections. In this testing phase, the colours and elements were run and decisions were made on whether these were suitable. In some cases, for
