@@ -361,6 +361,7 @@ footer {
 .footer-text {
     font-size: 1.4rem;
     color: #FFFFFF;
+    display: inline;
 }
 
 .footer-icon {
@@ -376,8 +377,9 @@ footer {
     color: #FFFFFF;
 }
 
-.fb-text:hover, .fb-icon:hover{
+.fb-text:hover, .fb-icon:hover {
   color: #54595F;
+  text-decoration: none;
 }
 
 /* End Footer */
