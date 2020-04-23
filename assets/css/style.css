@@ -309,7 +309,7 @@
  .footer-title {
      text-transform: uppercase;
      font-size: 1.5rem;
-     padding-bottom: 8px;
+     padding-bottom: 0.8rem;
 }
  .footer-text {
      font-size: 1.4rem;
@@ -347,6 +347,7 @@
          height: 80vh;
     }
 }
+
  @media only screen and (max-width: 768px) {
      .section-title {
          font-size: 1.5rem;
@@ -380,7 +381,7 @@
      form {
          padding: 3rem 1rem;
     }
-     .footer-title {
+    .footer-title {
          display: none;
     }
      footer {
@@ -398,6 +399,7 @@
          flex: 50%;
          max-width: 50%;
     }
+
      #accommodation {
          height: 90vh;
     }
