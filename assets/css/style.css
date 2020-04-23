@@ -298,7 +298,7 @@
 /* End Form section */
 
 /* Footer */
- footer {
+ #footer {
      padding: 3rem 0.5rem;
      max-height: 90vh;
      background-color: #a98a90;
@@ -307,7 +307,8 @@
      justify-content: space-around;
 }
  .footer-title {
-     text-transform: uppercase;
+     text-transform: capitalize;
+     text-decoration: underline;
      font-size: 1.5rem;
      padding-bottom: 0.8rem;
 }
@@ -361,6 +362,12 @@
      footer div {
          flex-wrap: wrap;
          width: 100%;
+    }
+     .footer-text {
+         font-size: 1.1rem;
+         color: #FFFFFF;
+         display: inline;
+         margin-top: 2rem;
     }
      .section-title {
          font-size: 1.5rem;
@@ -436,4 +443,5 @@
      #accommodation {
          height: 75vh;
     }
+ }
      
